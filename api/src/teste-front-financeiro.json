@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "teste-front-financeiro-62b79",
+  "private_key_id": "12a1a51b25bafdc3b5c404af4d69f026b45be535",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE3s0NWp2Jht7B\n5sjHSHHXvltVnEFYVqRDnRMjqEf/1wYBMdWYZquejENWmRmD5mJS/UQclBv/pvJW\nL/PqLZzL1o9+dk+ZaZ/8kAxylTKal00mlRGe+TTS8Oc19DKWqfvj/1iFAXfAf5xg\nFmzT6Ph9zLX3zmfo/qXigAQd5yXKd0hehpV5xdI0k9WXoOmLM4sijZExzQBwhD2v\n1IAKbY0paka/T7XUgC2pJ0MwRLWdEs0XbaCaVfmeldN3c3DfihILlBTLw019e8N9\n3ahkjswbJGSScgs+K+t7YNBd7x8dl4e6vlM/JmVqWssCJ9HIpnYjNV8XlHh8uV4E\nub4DHfbtAgMBAAECggEAAiB488ikbrtohqN6tgQW6qVORsvVMcX1u31S+TZGmPgi\n4QtWNUwQa9hZ7kv4CkKIXX0vsyULmK8lunYUXeiEJzS3TaSNxgiesb/Mla+M3AHH\nTCtdX1NA7ggsBhtqhBV/ESr1FOdbsyV/qrxf/aMz5+2LmtaHLUurGPgb74MPfVMc\nGkSAucc6jH1vnxeoVcRwR2Q1VHpNUiaJGnciRH0aTXVrxOOoMJXq4UYyT2sD3vpL\nCbckc1QCqQxIx7jngGsM+cq/uUR2macmEScKAFbaoYFmvCdch5/ONPr/OrT0Kxp4\nKNp2aNJo/fP8d0ka1z2sWLio53eNFnyE7Lu6TjWu6QKBgQDnxeO2rqc+oa+C2S7s\njGZc8wc/Si7m8jBKr2Kp8RNtfkyi8vlsP7ZPGZmbXgtRGVbDQOiHXRMhH/sjmJ4l\n/0Gts866pKbcII9t2qVrwSZIVHTMndxN14SHKHLpdrPzWv5J2UIv2i28v2pI3B7M\nyd6BABdcYxQabRGZ8hA4DxhqpQKBgQDZcu+UZMHXjOu3aonz7hCXjj7wyr6yuPMW\noeckOVLnZRH/a2iejyaSjjT9ztIK7S4zK920P5aYyzbXykYSEnQd9N+efrxln3rX\nyootyz/sQLddlXICs2pBpykwKPdV9Wc2Ty24RrOXSuFXRdrR5hv0a5WCEP2Baaoj\nPDQ9/DxQqQKBgBRkPsKl3yUNiKmUfiJlv+PRpgOVfUbobANGJwIYqcLqZ8e2ZOd3\nO4z+DZuzzH8YIaAQJ+Uw9Svm6muZU+C38olb1oZpUhzv6G6b3A388mdOtvABu45F\nte1GS8Xqoa55hQHuUXpwUbHXjXxXkYYnBKKI5YVFWlFw4ymOOIsWGOnZAoGALA1x\n5fFHqAB/nIfz7LwVFm8V5zhby99WOAaSyi7m0cQTEljTOBQuL1CqAaVNvjLwwiMn\n5iVfwBKjSLJM4cplRdBfIT/xsPDPNTpuJfrgN1+hBk+JamyooSZZXM1f1kVCJKmD\nzKpeJc9guYqIWy+wCCNnhZMlmHssobjHqKsaGQkCgYEAjFPjYVn14Rd0fnNNVLuy\nqCHKjQtNXFI3qegEwzIQik+HhtN0IyOao9Wpb91RY+y1Besv3zg1XY6cufVKFZyk\nj/C3LktyaQvc0dtP5cFHBQluoAU90hWn8WFBEzJ/zbpb3QA+UhVGbEbM4Kdpg8LD\nwUnAbwwKnrkLqeT3Y3tUG7w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-aiors@teste-front-financeiro-62b79.iam.gserviceaccount.com",
+  "client_id": "112337901871771132302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-aiors%40teste-front-financeiro-62b79.iam.gserviceaccount.com"
+}

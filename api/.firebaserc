@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "default": "teste-front-financeiro-62b79",
+    "staging": "teste-front-financeiro-62b79",
+    "production": "financeiro-e44b1"
+  },
+  "targets": {
+    "teste-front-financeiro-62b7": {
+      "hosting": {        
+        "staging": [
+          "teste-front-financeiro-62b79"
+        ]
+      }
+    },
+    "financeiro-e44b1": {
+      "hosting": {
+        "production": [
+          "financeiro-e44b1"
+        ]
+      }
+    }
+  }
+}
