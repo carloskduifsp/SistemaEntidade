@@ -13,5 +13,8 @@
   "keywords": [],
   "author": "Carlos Kdu",
   "license": "ISC",
-  "description": ""
+  "description": "Aprendendo a criar api NodeJs",
+  "bin": {
+    "api-kdu": "bin/server.js"
+  }
 }
